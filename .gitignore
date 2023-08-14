@@ -1,0 +1,11 @@
+node_modules
+dist
+.npmrc
+yarn-error.log
+.DS_Store
+*.tgz
+.idea
+
+./**/*.d.ts
+./**/*.map
+./**/*.js
