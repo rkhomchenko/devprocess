@@ -5,5 +5,6 @@ export const obj = {
 
 export const obj2 = {
   version: '0.0.1',
-  name: 'q9elements-ui-core'
+  name: 'q9elements-ui-core',
+  test: 1
 };
