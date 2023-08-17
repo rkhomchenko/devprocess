@@ -1,6 +1,6 @@
 {
   "name": "@rkhomchenko/devprocess",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Project for testing development processes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
